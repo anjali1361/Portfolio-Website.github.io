@@ -1,0 +1,21 @@
+/* font-face */
+
+    @font-face {
+        font-family: "Roboto";
+        src: url('../fonts/Roboto/Roboto-Black.ttf');
+        }
+
+        @font-face {
+            font-family: "Roboto1";
+            src: url('../fonts/Roboto/Neucha-Regular.ttf');
+            }
+
+            @font-face {
+                font-family: "Roboto2";
+                src: url('../fonts/Roboto/Roboto-Medium.ttf');
+                }
+
+                @font-face {
+                    font-family: "Roboto3";
+                    src: url('../fonts/Roboto/Roboto-Light.ttf');
+                    }
